@@ -3,11 +3,11 @@
     "authorityUri": "https://login.microsoftonline.com/common/",
     "scope": "https://analysis.windows.net/powerbi/api",
     "apiUrl": "https://api.powerbi.com/",
-    "clientId": "",
-    "workspaceId": "",
-    "reportId": "",
+    "clientId": "296137e1-76f0-491d-bc33-ac471578de53",
+    "workspaceId": "51280d7a-5bf8-434d-945b-f6ba80fef1c3",
+    "reportId": "c18473d0-e6e2-4bee-a4f3-165bda1f30db",
     "pbiUsername": "",
     "pbiPassword": "",
-    "clientSecret": "",
-    "tenantId": ""
+    "clientSecret": "py258.9o-561-YcJKrCS823glTY.EDuD~F",
+    "tenantId": "290ca5e0-9625-4bfd-8090-a8490ae91d19"
 }
